@@ -1,0 +1,13 @@
+<section class="features">
+  <div class="row">
+    {% for feature in site.data.features %}
+      <div class="columns medium-4 text-center">
+        <img class="feature-img" src="/img/{{feature.img}}" alt="{{site.data.i18n[feature.title]}}" title="{{site.data.i18n[feature.title]}}">
+        <h1>{{site.data.i18n[feature.title]}}</h1>
+        <p>
+          {{site.data.i18n[feature.desc]}}
+        </p>
+      </div>
+    {% endfor %}
+  </div>
+</section>

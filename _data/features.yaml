@@ -1,0 +1,9 @@
+- title: CloudBased
+  desc: CloudBasedDesc
+  img: cloud.png
+- title: EasyToStart
+  desc: EasyToStartDesc
+  img: gauge.png
+- title: API
+  desc: APIDesc
+  img: code.png

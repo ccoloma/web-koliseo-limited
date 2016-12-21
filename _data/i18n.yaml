@@ -1,0 +1,36 @@
+cookies:
+  Policy: Cookie Policy
+  Advice: This web site uses cookies.
+  Description: We use first and third-party cookies to improve our service. If you continue, we will assume that you accept our <a href=\"/en/cookies\">cookie policy</a>.
+  DescriptionLong: <p>Every web site uses cookies to improve the user experience. You can block them through your browsers settings, but this will disable some features.</p><ul><li><b>Customization:</b> We use cookies to override the preferred language, in case it's not the same as your browser default.</li><li><b>Analytics and research:</b> We use cookies to keep track of the kind of features that people love. They help us to build a better user experience.</li></ul><p>You can block or remove cookies using the options menu in your browser.
+
+actions:
+  Accept: Accept
+
+DefaultDesc: At Koliseo we are creating the next generation of online ticketing platforms
+
+NotFound:
+  Title: 
+  Short: We couldn't find the page you were looking for.
+  Desc: Sorry, this page could not be found. Can you try again from the home page?.
+
+CloudBased: Cloud based
+CloudBasedDesc: An architecture designed over Google Cloud Platform gives you the scalability and the reliabilty you need for your event, no matter your use case.
+EasyToStart: Easy to start
+EasyToStartDesc: You can start selling your tickets in 5 minutes. Of course, you can spend a bit more and configure a lot of advanced features as well.
+API: API support
+APIDesc: If the console isn't for you, you can use the API to create new ticket types, check current availability, control invitations and much more!
+
+Agenda:
+  Title: C4P and Agenda support
+  Description: You don't have to waste more time with emails, forms or spreadsheets. You can create a Call for Papers for your event, vote the talks sent and create an agenda based on the talks received. Assistants can mark the talks they want to go to, give feedback and access the slides and video, all in one place!
+
+AccessControl:
+  Title: Free app to check tickets
+  Description: You don't need to print all the tickets to validate them at your event. You only need our app to check them! It is a multi-device app that sincronizes all check-in tickets in real-time. Really simple, isn't it?
+
+Contact:
+  Title: Do you want more info?
+  Description: If you are interested in speaking with us, <a href="mailto:info@koliseo.limited">get in contact</a>. We will be pleased to talk with you about your requisites and how can we do it with our platform. Don't be shy!
+
+PrivacyPolicy: Privacy policy

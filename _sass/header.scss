@@ -1,0 +1,73 @@
+
+.top-logo {
+  height: 32px;
+  text-indent: -10000px;
+  overflow: hidden;
+  background: url('/img/wlogo.png') no-repeat 0 0;
+  background-size: contain;
+  margin-left: 15px;
+  float: left;
+  font-size: 32px;
+  min-width: 185px;
+}
+
+.header-container {
+  background: url('/img/background-m.jpg') no-repeat center center fixed;
+  background-size: cover; 
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.header-content {
+  background: rgba(34, 35, 46, 0.63);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.header {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  padding: 0 40px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.logo-container, .snapshot-container {
+  height: 50%;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.snapshot-container {
+  display: flex;
+}
+
+.home-subtitle {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+@media #{$medium-up} {
+  .header-container {
+    background-image: url('/img/background.jpg');
+  }
+  .snapshot-container {
+    width: 75%;
+  }
+}
+
+@media #{$large-up} {
+  .snapshot-container {
+    width: 75%;
+  }
+}

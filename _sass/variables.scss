@@ -1,0 +1,14 @@
+// Colors
+$twitter-color: #00aced;
+$white: #fff;
+$border-color: #eee;
+$footer-color: #555;
+$footer-link-color: $white;
+$footer-link-hover-color: $footer-link-color;
+$footer-link-hover-background-color: #999;
+
+// sizes
+$content-padding: 20px;
+
+@import "foundation/settings";
+@import "foundation/components/global";
