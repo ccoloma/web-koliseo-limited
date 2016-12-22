@@ -18,7 +18,7 @@ CloudBasedDesc: An architecture designed over Google Cloud Platform gives you th
 EasyToStart: Easy to start
 EasyToStartDesc: You can start selling your tickets in 5 minutes. Of course, you can spend a bit more and configure a lot of advanced features as well.
 API: API support
-APIDesc: If the console isn't for you, you can use the API to create new ticket types, check current availability, control invitations and much more!
+APIDesc: If the console isn't enough for you, you can use the API to create new ticket types, check current availability, control invitations and much more!
 
 Agenda:
   Title: C4P and Agenda support
