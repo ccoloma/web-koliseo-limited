@@ -12,7 +12,7 @@
 }
 
 .header-container {
-  background: url('/img/background-m.jpg') no-repeat center center fixed;
+  background: url('/img/background.jpg') no-repeat center center fixed;
   background-size: cover; 
   height: 100%;
 }
@@ -57,7 +57,7 @@
 
 @media #{$medium-up} {
   .header-container {
-    background-image: url('/img/background.jpg');
+    background-image: url('/img/background-m.jpg');
   }
   .snapshot-container {
     width: 75%;
