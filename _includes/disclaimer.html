@@ -1,8 +1,9 @@
 <section>
   <div class="row">
     <div class="columns">
-      <h1>{{site.data.legal.Title}}</h1>
-      {% for section in site.data.legal.sections %}
+      <h1>{{site.data.disclaimer.Title}}</h1>
+      {{site.data.disclaimer.Description}}
+      {% for section in site.data.disclaimer.sections %}
         <div>
           <h2>{{section.Title}}</h2>
           {% for content in section.Contents %}

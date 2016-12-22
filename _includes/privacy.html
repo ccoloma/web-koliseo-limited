@@ -1,0 +1,28 @@
+<section>
+  <div class="row">
+    <div class="columns">
+      <h1>{{site.data.privacy.Title}}</h1>
+      {{site.data.privacy.Description}}
+      {% for section in site.data.privacy.sections %}
+        <div>
+          <h2>{{section.Title}}</h2>
+          {% if section.Contents %}
+            {% for content in section.Contents %}
+              <p>{{content}}</p>
+            {% endfor %}
+          {% endif %}
+          {% if section.sections %}
+            {% for sec in section.sections %}
+              <div>
+                <h3>{{sec.Title}}</h3>
+                {% for content in sec.Contents %}
+                  <p>{{content}}</p>
+                {% endfor %}
+              </div>
+            {% endfor %}
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
