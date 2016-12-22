@@ -1,9 +1,5 @@
 $(function () {
 
-  // FOUNDATION
-
-  $(document).foundation();
-  
   // COOKIES
 
   var cookieName = 'acceptscookies'

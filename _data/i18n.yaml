@@ -1,8 +1,7 @@
 cookies:
   Policy: Cookie Policy
   Advice: This web site uses cookies.
-  Description: We use first and third-party cookies to improve our service. If you continue, we will assume that you accept our <a href=\"/en/cookies\">cookie policy</a>.
-  DescriptionLong: <p>Every web site uses cookies to improve the user experience. You can block them through your browsers settings, but this will disable some features.</p><ul><li><b>Customization:</b> We use cookies to override the preferred language, in case it's not the same as your browser default.</li><li><b>Analytics and research:</b> We use cookies to keep track of the kind of features that people love. They help us to build a better user experience.</li></ul><p>You can block or remove cookies using the options menu in your browser.
+  Description: We use first and third-party cookies to improve our service. If you continue, we will assume that you accept our <a href="/privacy">cookie policy</a>.
 
 actions:
   Accept: Accept
@@ -10,9 +9,9 @@ actions:
 DefaultDesc: At Koliseo we are creating the next generation of online ticketing platforms
 
 NotFound:
-  Title: 
-  Short: We couldn't find the page you were looking for.
-  Desc: Sorry, this page could not be found. Can you try again from the home page?.
+  Title: 404 - Not Found
+  Short: Eh... I've seen this movie before... Better go home
+  Desc: Sorry, this page could not be found. Can you try again from the home page?
 
 CloudBased: Cloud based
 CloudBasedDesc: An architecture designed over Google Cloud Platform gives you the scalability and the reliabilty you need for your event, no matter your use case.
