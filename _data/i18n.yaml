@@ -1,7 +1,7 @@
 cookies:
   Policy: Cookie Policy
   Advice: This web site uses cookies.
-  Description: We use first and third-party cookies to improve our service. If you continue, we will assume that you accept our <a href="/privacy">cookie policy</a>.
+  Description: We use first and third-party cookies to improve our service. If you continue, we assume that you accept our <a href="/privacy">cookie policy</a>.
 
 actions:
   Accept: Accept
@@ -14,22 +14,22 @@ NotFound:
   Desc: Sorry, this page could not be found. Can you try again from the home page?
 
 CloudBased: Cloud based
-CloudBasedDesc: An architecture designed over Google Cloud Platform gives you the scalability and the reliabilty you need for your event, no matter your use case.
+CloudBasedDesc: An architecture deployed on Google Cloud Platform provides with the scalability and reliabilty you need for your events, no matter your use case.
 EasyToStart: Easy to start
-EasyToStartDesc: You can start selling your tickets in 5 minutes. Of course, you can spend a bit more and configure a lot of advanced features as well.
+EasyToStartDesc: You can start selling your tickets in 5 minutes. You can also spend a bit more and configure a bunch of advanced features as well.
 API: API support
-APIDesc: If the console isn't enough for you, you can use the API to create new ticket types, check current availability, control invitations and much more!
+APIDesc: If the web console isn't your thing, you can use the API to create new ticket types, check current availability, control invitations and much more.
 
 Agenda:
   Title: C4P and Agenda support
-  Description: You don't have to waste more time with emails, forms or spreadsheets. You can create a Call for Papers for your event, vote the talks sent and create an agenda based on the talks received. Assistants can mark the talks they want to go to, give feedback and access the slides and video, all in one place!
+  Description: No need to waste more time combining emails, online forms and spreadsheets. Now you can create a Call for Papers for your event, vote the talks sent and create an agenda based on the received proposals. Your assistants can mark the talks they want to attend, send feedback, link the slides and video, all in one place!
 
 AccessControl:
-  Title: Free app to check tickets
-  Description: You don't need to print all the tickets to validate them at your event. You only need our app to check them! It is a multi-device app that sincronizes all check-in tickets in real-time. Really simple, isn't it?
+  Title: Free app to validate tickets
+  Description:  Install our Android app to validate tickets from multiple devices synchronized in real time.
 
 Contact:
-  Title: Do you want more info?
-  Description: If you are interested in speaking with us, <a href="mailto:info@koliseo.limited">get in contact</a>. We will be pleased to talk with you about your requisites and how can we do it with our platform. Don't be shy!
+  Title: Do you need more info?
+  Description: If you are interested, just <a href="mailto:info@koliseo.limited">get in contact</a>. We will be happy to start a conversation to understand your requirements and see how we can help with our platform.
 
 PrivacyPolicy: Privacy policy
